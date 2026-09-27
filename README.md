@@ -49,18 +49,3 @@ I am a final-year Computer Science and Engineering student at Leading University
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sr-hridoy&show_icons=true&hide_border=true&count_private=true&title_color=0077B5&icon_color=0077B5" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-hridoy&layout=compact&hide_border=true&title_color=0077B5" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-hridoy&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=000000" width="100%" alt="GitHub Streak" />
-</div>
