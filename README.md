@@ -1,53 +1,51 @@
-<h1 align="center">Md. Shaifur Rahman Hridoy</h1>
+<h1 align="center">Hi there, I'm Md. Shaifur Rahman Hridoy 👋</h1>
 
-<h4 align="center">🌌 AI & Deep Learning Researcher | ⚡ Flutter Developer | 🛡️ SQA Enthusiast</h4>
+<h4 align="center">Final-Year CSE Student | Researching AI Hallucinations & Cardiac Arrhythmia | Flutter Dev | SQA Enthusiast</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-shaifur-rahman-hridoy">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://orcid.org/0009-0003-0641-5805">
-    <img src="https://img.shields.io/badge/ORCID-121212?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
   <a href="https://www.researchgate.net/profile/Md-Shaifur-Hridoy">
-    <img src="https://img.shields.io/badge/ResearchGate-121212?style=for-the-badge&logo=researchgate&logoColor=00CCBB" alt="ResearchGate"/>
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
   </a>
   <a href="mailto:srhridoy133@gmail.com">
-    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 <br/>
 
-### 🛰️ System Overview: About Me
-> I am a final-year Computer Science & Engineering student based in Sylhet, Bangladesh. Currently engineering solutions at the intersection of **Artificial Intelligence, Healthcare, and Mobile Architectures**, with a direct trajectory toward a Master's degree abroad.
+### 🔬 About Me & Current Focus
+I am a final-year Computer Science and Engineering student at Leading University in Sylhet, Bangladesh. I am actively preparing to pursue a Master's degree abroad in Artificial Intelligence, bridging advanced AI research, mobile application development, and Software Quality Assurance (SQA).
 
-### 🔬 Primary Directives & Research
-
-- 🧠 **Thesis [Active]:** Mitigating **AI Hallucinations** by enforcing data integrity—cross-referencing AI-generated pharmaceutical and medical outputs against global authoritative nodes (e.g., WHO) to ensure absolute factual accuracy.
-- 📊 **Publication [Submitted]:** **Cardiac Arrhythmia Detection** via Dual-Scale 1D Convolutional Neural Networks mapped to the MIT-BIH dataset.
-- 📱 **Deployment [Featured]:** Engineered [MediMind](https://github.com/sr-hridoy/medimind-app), a cross-platform (Flutter/Firebase) adherence portal for decentralized patient monitoring.
-- ⚙️ **Architecture [Featured]:** Architected a [Hospital Patient Manager](https://github.com/sr-hridoy/hospital-patient-manager) (C++/Supabase) leveraging strict Object-Oriented paradigms.
+- 🎓 **Current Thesis:** Mitigating **AI Hallucinations** by cross-referencing AI-generated medical data against global standards (e.g., WHO) to ensure factual accuracy.
+- 📝 **Recent Publication:** Submitted a conference-level paper on **Cardiac Arrhythmia Detection** using Dual-Scale 1D Convolutional Neural Networks on the MIT-BIH dataset.
+- 💻 **Featured Projects:** Creator of [MediMind](https://github.com/sr-hridoy/medimind-app) (Flutter/Firebase) and a cross-platform [Hospital Patient Manager](https://github.com/sr-hridoy/hospital-patient-manager) (C++/Supabase).
+- 🎯 **Future Goals:** Seeking Master's research opportunities to further explore Artificial Intelligence and Deep Learning in healthcare.
 
 ---
 
-### ⚙️ Technology Stack
+### 🛠️ Technical Arsenal
 
-**Core Engine & Languages**<br/>
-![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=3776AB)
-![Dart](https://img.shields.io/badge/Dart-121212?style=for-the-badge&logo=dart&logoColor=0175C2)
-![Java](https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=java&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Bash](https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+**Languages & Core**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Neural Networks & Data Science**<br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-121212?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Keras](https://img.shields.io/badge/Keras-121212?style=for-the-badge&logo=keras&logoColor=D00000)
-![Jupyter](https://img.shields.io/badge/Jupyter-121212?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Pandas](https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=white)
+**AI & Deep Learning**<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Architectural Tools & Deployment**<br/>
-![Flutter](https://img.shields.io/badge/Flutter-121212?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Firebase](https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Android Studio](https://img.shields.io/badge/Android_Studio-121212?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
-![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032)
+**Mobile, Backend & Tools**<br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
