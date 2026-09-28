@@ -22,7 +22,7 @@
 ### 🔬 About Me & Current Focus
 I am a final-year Computer Science and Engineering student at Leading University in Sylhet, Bangladesh. I am actively preparing to pursue a Master's degree abroad in Artificial Intelligence, bridging advanced AI research, mobile application development, and Software Quality Assurance (SQA).
 
-- 🎓 **Current Thesis:** Mitigating **AI Hallucinations** by cross-referencing AI-generated medical data against global standards (e.g., WHO) to ensure factual accuracy.
+- 🎓 **Current Thesis:** Exploring **Calibrated Hallucination Detection via Parametric–Contextual Dissonance and Adaptive Uncertainty Fusion** to mitigate AI inaccuracies and ensure factual integrity.
 - 📝 **Recent Publication:** Submitted a conference-level paper on **Cardiac Arrhythmia Detection** using Dual-Scale 1D Convolutional Neural Networks on the MIT-BIH dataset.
 - 💻 **Featured Projects:** Creator of [MediMind](https://github.com/sr-hridoy/medimind-app) (Flutter/Firebase) and a cross-platform [Hospital Patient Manager](https://github.com/sr-hridoy/hospital-patient-manager) (C++/Supabase).
 - 🎯 **Future Goals:** Seeking Master's research opportunities to further explore Artificial Intelligence and Deep Learning in healthcare.
