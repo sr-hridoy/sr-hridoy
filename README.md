@@ -20,12 +20,12 @@
 <br/>
 
 ### 🔬 About Me & Current Focus
-I am a final-year Computer Science and Engineering student at Leading University in Sylhet, Bangladesh. I am actively preparing to pursue a Master's degree abroad in Artificial Intelligence, bridging advanced AI research, mobile application development, and Software Quality Assurance (SQA).
+I am a final-year Computer Science and Engineering student at Leading University in Sylhet, Bangladesh, with a strong interest in Artificial Intelligence, Deep Learning, Trustworthy AI, and healthcare technology. I am currently preparing to pursue a Master's degree abroad in Artificial Intelligence and further develop my research experience.
 
-- 🎓 **Current Thesis:** Exploring **Calibrated Hallucination Detection via Parametric–Contextual Dissonance and Adaptive Uncertainty Fusion** to mitigate AI inaccuracies and ensure factual integrity.
-- 📝 **Recent Publication:** Submitted a conference-level paper on **Cardiac Arrhythmia Detection** using Dual-Scale 1D Convolutional Neural Networks on the MIT-BIH dataset.
-- 💻 **Featured Projects:** Creator of [MediMind](https://github.com/sr-hridoy/medimind-app) (Flutter/Firebase) and a cross-platform [Hospital Patient Manager](https://github.com/sr-hridoy/hospital-patient-manager) (C++/Supabase).
-- 🎯 **Future Goals:** Seeking Master's research opportunities to further explore Artificial Intelligence and Deep Learning in healthcare.
+- 🎓 **Current Thesis:** Researching **Calibrated Hallucination Detection via Parametric–Contextual Dissonance and Adaptive Uncertainty Fusion**, with a focus on detecting unreliable AI-generated information and improving the reliability of healthcare-related AI outputs.
+- 📝 **Research:** Conducted research on **Cardiac Arrhythmia Detection** using Dual-Scale 1D Convolutional Neural Networks (CNN) and the MIT-BIH dataset; the manuscript has been submitted for conference consideration.
+- 💻 **Featured Projects:** Developed [MediMind](https://github.com/sr-hridoy/medimind-app), a medication adherence application built with Flutter and Firebase, and a [Hospital Patient Manager](https://github.com/sr-hridoy/hospital-patient-manager), a patient management system using C++ and Supabase.
+- 🎯 **Future Goals:** Interested in Master's research opportunities involving Artificial Intelligence, Deep Learning, Trustworthy AI, and healthcare applications.
 
 ---
 
